@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elixir4dev
+- 👋 Hi, I’m @beam4dev
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently focus on Beam languages specially Elixir and how to apply it 
 - 💞️ I’m looking to collaborate on Elixir projects
